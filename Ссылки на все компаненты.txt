@@ -1,0 +1,28 @@
+Основные компоненты и модули:
+Ардуино Нано: https://ali.ski/GS0fAk
+ЖК дисплей: https://ali.ski/U_fCzd
+Аккумулятор 18650: https://ali.ski/U3jESs
+Модуль зярядки + защита: https://ali.ski/gaq0J6
+Бокс для 18650: https://ali.ski/0P7SV
+Повышайка до 5В: https://ali.ski/hLTfe
+Мосфет: https://ali.ski/3WnT7T
+ИК-Светодиоды и фоторанзисторы набор: https://ali.ski/8myARr
+Конденсаторы электролитические: https://ali.ski/KOdkX
+Конденсаторы керамические: https://ali.ski/joBa2q
+Светодиоды маленькие: https://ali.ski/TPkzf
+Резисторы: https://ali.ski/Ays3M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
